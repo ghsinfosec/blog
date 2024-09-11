@@ -1,0 +1,40 @@
+baseURL = 'https://ghsinfosec.github.io/'
+languageCode = 'en-us'
+title = 'ghsinfosec'
+theme = 'm10c'
+enableEmoji= true
+paginate = 8
+
+[params]
+	author = 'ghsinfosec'
+	description = "Welcome to my blog, where everything's made up and the views don't matter!"
+	[[params.social]]
+		icon = 'github'
+		name = 'Github'
+		url = 'https://github.com/ghsinfosec'
+
+[menu]
+	[[menu.main]]
+		identifier = 'home'
+		name = '/home'
+		url = '/'
+		weight = 1
+	[[menu.main]]
+		identifier = 'tags'
+		name = '/tags'
+		url = '/tags/'
+		weight = 2
+	[[menu.main]]
+		identifier = 'about'
+		name = "/about"
+		url = '/about/'
+		weight = 3
+
+[module]
+	[[module.mounts]]
+		source = 'static'
+		target = 'static'
+	[[module.mounts]]
+		source = 'images'
+		target = 'static/images'
+	

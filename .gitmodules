@@ -1,0 +1,4 @@
+[submodule "ghsinfosecblog/public"]
+	path = ghsinfosecblog/public
+	url = https://github.com/ghsinfosec/ghsinfosec.github.io.git
+	branch = main
