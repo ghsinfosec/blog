@@ -9,6 +9,8 @@ WordPress has been my latest rabbit hole for hacking and bug bounty. For the pas
 
 **TL;DR**: Patchstack has a monthly bug bounty competition and they made history with 1571 valid bugs reported in a single month. This month I submitted 23 bugs (18 valid, 5 rejected) and finished in 12th place. :partying_face:
 
+[Patchstack Blog Post](https://patchstack.com/articles/nearly-1000-plugins-closed-during-wordpress-security-cleanup/)
+
 ### Background
 
 Patchstack is one of a handful of WordPress security platforms that offers security services and bug bounty. Each month they hold a bug bounty competition where hackers can submit bugs in plugins and themes for a chance to win cash prizes. It's a bit different than traditional bug bounty for several reasons, but as someone who just started gaining some traction hacking on WordPress the competitive nature of it was incredibly motivating for me. My goal this month was to finish in the top 10 and I fell a bit short of my goal, but I'm not at all disappointed. I was participating in a historic event with some of the most talented WordPress hackers in the world and somehow managed to finish in 12th place. 
@@ -17,7 +19,7 @@ Since October is "Cybersecurity Awareness Month" they adjusted their scope to ac
 
 If this sounds interesting to you then I recommend checking out the [guidelines](https://patchstack.com/articles/bug-bounty-guidelines-rules/).
 
-Before going into the results here are some cool stats from the month. Patchstack is going to put out some content around this as well so I'll link back to it once they've posted it.
+Before going into the results here are some cool stats from the month. Much more info in their [blog post](https://patchstack.com/articles/nearly-1000-plugins-closed-during-wordpress-security-cleanup/)!
 
 > | :chart_increasing: Interesting Stats    | Submission Totals    | Percentage    |
 > |---------------- | --------------- | --------------- |
