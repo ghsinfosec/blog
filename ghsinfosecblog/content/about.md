@@ -14,6 +14,5 @@ Outside of that I have an amazing wife, a wonderful little boy, and a spunky dog
 - [Wordfence](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/ghsinfosec)
 - [BugCrowd](https://bugcrowd.com/ghsinfosec)
 
-I also have a [YouTube channel](https://youtube.com/@ghsinfosec) that I cringe about now and haven't posted a video in a long time. It's full of skill issues and I'm not shilling it for subs, but I don't mind sharing it because for me it's a reminder of where I started and how far I've come. Maybe someday I'll get some better content on there but for now I'll stick to the blog, who knows... :man_shrugging:
 
 
