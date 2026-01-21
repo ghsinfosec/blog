@@ -30,6 +30,10 @@ paginate = 8
 		url = '/about/'
 		weight = 3
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [module]
 	[[module.mounts]]
 		source = 'static'
